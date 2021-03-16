@@ -1,0 +1,4 @@
+1002 zhangsan f 20
+1001 lisi m 19
+1003 zhangsan f 20
+1004 lisi m 19
